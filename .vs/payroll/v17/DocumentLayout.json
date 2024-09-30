@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\payroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\leaves.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leaves.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\holidays.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:holidays.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\employees.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employees.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\salaries.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:salaries.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\partials\\sidenav.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:partials\\sidenav.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\DATABASE FILE\\payroll_mdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATABASE FILE\\payroll_mdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\plugins\\ckeditor\\samples\\old\\xhtmlstyle.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\ckeditor\\samples\\old\\xhtmlstyle.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-without-plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\css\\alt\\AdminLTE-without-plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\css\\alt\\AdminLTE-fullcalendar.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\css\\alt\\AdminLTE-fullcalendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\ajax\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ajax\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\payroll\\dist\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dist\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "leaves.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\leaves.php",
+              "RelativeDocumentMoniker": "leaves.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\leaves.php",
+              "RelativeToolTip": "leaves.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-19T16:20:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "holidays.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\holidays.php",
+              "RelativeDocumentMoniker": "holidays.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\holidays.php",
+              "RelativeToolTip": "holidays.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-19T16:19:53.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employees.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\employees.php",
+              "RelativeDocumentMoniker": "employees.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\employees.php",
+              "RelativeToolTip": "employees.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-19T16:19:27.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "payroll_mdb.sql",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\DATABASE FILE\\payroll_mdb.sql",
+              "RelativeDocumentMoniker": "DATABASE FILE\\payroll_mdb.sql",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\DATABASE FILE\\payroll_mdb.sql",
+              "RelativeToolTip": "DATABASE FILE\\payroll_mdb.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T16:16:44.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLTE-without-plugins.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+              "RelativeDocumentMoniker": "dist\\css\\alt\\AdminLTE-without-plugins.css",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+              "RelativeToolTip": "dist\\css\\alt\\AdminLTE-without-plugins.css",
+              "ViewState": "AQIAACEBAAAAAAAAAAAgwKkCAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T04:39:56.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLTE-fullcalendar.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+              "RelativeDocumentMoniker": "dist\\css\\alt\\AdminLTE-fullcalendar.css",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+              "RelativeToolTip": "dist\\css\\alt\\AdminLTE-fullcalendar.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T04:39:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "xhtmlstyle.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\plugins\\ckeditor\\samples\\old\\xhtmlstyle.html",
+              "RelativeDocumentMoniker": "plugins\\ckeditor\\samples\\old\\xhtmlstyle.html",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\plugins\\ckeditor\\samples\\old\\xhtmlstyle.html",
+              "RelativeToolTip": "plugins\\ckeditor\\samples\\old\\xhtmlstyle.html",
+              "ViewState": "AQIAALcAAAAAAAAAAAAcwMAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-06T04:37:29.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sidenav.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\partials\\sidenav.php",
+              "RelativeDocumentMoniker": "partials\\sidenav.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\partials\\sidenav.php",
+              "RelativeToolTip": "partials\\sidenav.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-06T04:36:57.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "salaries.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\salaries.php",
+              "RelativeDocumentMoniker": "salaries.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\salaries.php",
+              "RelativeToolTip": "salaries.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-05T05:37:48.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLTE-fullcalendar.min.css",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+              "RelativeDocumentMoniker": "dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+              "RelativeToolTip": "dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD/AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T04:39:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\ajax\\index.php",
+              "RelativeDocumentMoniker": "ajax\\index.php",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\ajax\\index.php",
+              "RelativeToolTip": "ajax\\index.php",
+              "ViewState": "AQIAABcBAAAAAAAAAAAewCgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-09-05T05:57:24.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\payroll\\dist\\js\\script.js",
+              "RelativeDocumentMoniker": "dist\\js\\script.js",
+              "ToolTip": "C:\\xampp\\htdocs\\payroll\\dist\\js\\script.js",
+              "RelativeToolTip": "dist\\js\\script.js",
+              "ViewState": "AQIAAH4DAAAAAAAAAADwv40DAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T05:55:04.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
